@@ -70,7 +70,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'jobfinder.wsgi.application'
+WSGI_APPLICATION = 'jobfinder.wsgi.app'
 
 
 # Database
